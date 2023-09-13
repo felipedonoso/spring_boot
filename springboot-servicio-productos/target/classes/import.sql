@@ -1,0 +1,9 @@
+insert into productos (nombre,precio,create_at) values ('Iphone',800,now());
+insert into productos (nombre,precio,create_at) values ('Samsumg',700,now());
+insert into productos (nombre,precio,create_at) values ('Huawei',700,now());
+insert into productos (nombre,precio,create_at) values ('Xiaomi',650,now());
+insert into productos (nombre,precio,create_at) values ('Nokia',570,now());
+insert into productos (nombre,precio,create_at) values ('Lg',600,now());
+insert into productos (nombre,precio,create_at) values ('Motorola',800,now());
+insert into productos (nombre,precio,create_at) values ('Sony',700,now());
+insert into productos (nombre,precio,create_at) values ('Alcatel',450,now());
